@@ -13,7 +13,7 @@ import java.io.IOException;
 public class ReadWriteFile
 {
 
-    public String readFile()
+    public static String readFile()
     {
         String line = "";
         try
@@ -36,12 +36,12 @@ public class ReadWriteFile
         return line;
     }
 
-    public void writeFile()
+    public static void writeFile(String s)
     {
         try
         {
             FileWriter myWriter = new FileWriter("filename.txt", true);
-            myWriter.write("Files in Java might be tricky, but it is fun enough!");
+            myWriter.write("\n" + s);
             myWriter.close();
             System.out.println("Successfully wrote to the file.");
         } catch (IOException e)
