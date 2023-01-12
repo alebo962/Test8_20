@@ -32,7 +32,7 @@ public class Test
     public static void main(String[] args) throws IOException, InterruptedException
       {
         String tm = GetTime.getTime();
-        int result[] = ReadArchive.read("10.01.2023 23:07");// (tm)
+ //       int result[] = ReadArchive.read("10.01.2023 23:07");// (tm)
 //
 //        for (int i : result)
 //        {
@@ -42,12 +42,12 @@ public class Test
         int[] bet = decodeString(ReadWriteFile.readFile());
 
         int sum = bet[bet.length - 2];
-        sum += CheckResult.checkTirage(bet, result);
+    //    sum += CheckResult.checkTirage(bet, result);
 
         int num = bet[bet.length - 1];
         
         int [] rnd = Generator.generateRandom();
-        for(int i:rnd)
+        //for(int i:rnd)
             
 //        for(int i:bet)
 //            System.out.print(i + " ");

@@ -1,0 +1,215 @@
+
+10 21 * * * java -jar /home/pi/Test.jar
+25 21 * * * java -jar /home/pi/Test.jar
+40 21 * * * java -jar /home/pi/Test.jar
+
+10 20 * * * java -jar /home/pi/Test.jar
+25 20 * * * java -jar /home/pi/Test.jar
+40 20 * * * java -jar /home/pi/Test.jar
+55 20 * * * java -jar /home/pi/Test.jar
+
+10 19 * * * java -jar /home/pi/Test.jar
+25 19 * * * java -jar /home/pi/Test.jar
+40 19 * * * java -jar /home/pi/Test.jar
+55 19 * * * java -jar /home/pi/Test.jar
+
+40 18 * * * java -jar /home/pi/Test.jar
+55 18 * * * java -jar /home/pi/Test.jar
+
+25 17 * * * java -jar /home/pi/Test.jar
+40 17 * * * java -jar /home/pi/Test.jar
+10 17 * * * java -jar /home/pi/Test.jar
+
+40 16 * * * java -jar /home/pi/Test.jar
+55 16 * * * java -jar /home/pi/Test.jar
+
+10 15 * * * java -jar /home/pi/Test.jar
+25 15 * * * java -jar /home/pi/Test.jar
+40 15 * * * java -jar /home/pi/Test.jar
+
+10 14 * * * java -jar /home/pi/Test.jar
+25 14 * * * java -jar /home/pi/Test.jar
+40 14 * * * java -jar /home/pi/Test.jar
+55 14 * * * java -jar /home/pi/Test.jar
+
+40 13 * * * java -jar /home/pi/Test.jar
+55 13 * * * java -jar /home/pi/Test.jar
+
+25 12 * * * java -jar /home/pi/Test.jar
+40 12 * * * java -jar /home/pi/Test.jar
+10 12 * * * java -jar /home/pi/Test.jar
+
+10 11 * * * java -jar /home/pi/Test.jar
+25 11 * * * java -jar /home/pi/Test.jar
+40 11 * * * java -jar /home/pi/Test.jar
+55 11 * * * java -jar /home/pi/Test.jar
+
+40 10 * * * java -jar /home/pi/Test.jar
+55 10 * * * java -jar /home/pi/Test.jar
+
+25 9 * * * java -jar /home/pi/Test.jar
+40 9 * * * java -jar /home/pi/Test.jar
+10 9 * * * java -jar /home/pi/Test.jar
+
+10 8 * * * java -jar /home/pi/Test.jar
+25 8 * * * java -jar /home/pi/Test.jar
+40 8 * * * java -jar /home/pi/Test.jar
+55 8 * * * java -jar /home/pi/Test.jar
+
+10 7 * * * java -jar /home/pi/Test.jar
+25 7 * * * java -jar /home/pi/Test.jar
+40 7 * * * java -jar /home/pi/Test.jar
+55 7 * * * java -jar /home/pi/Test.jar
+
+10 6 * * * java -jar /home/pi/Test.jar
+25 6 * * * java -jar /home/pi/Test.jar
+40 6 * * * java -jar /home/pi/Test.jar
+55 6 * * * java -jar /home/pi/Test.jar
+
+10 5 * * * java -jar /home/pi/Test.jar
+25 5 * * * java -jar /home/pi/Test.jar
+40 5 * * * java -jar /home/pi/Test.jar
+55 5 * * * java -jar /home/pi/Test.jar
+
+10 4 * * * java -jar /home/pi/Test.jar
+25 4 * * * java -jar /home/pi/Test.jar
+40 4 * * * java -jar /home/pi/Test.jar
+55 4 * * * java -jar /home/pi/Test.jar
+
+10 3 * * * java -jar /home/pi/Test.jar
+25 3 * * * java -jar /home/pi/Test.jar
+40 3 * * * java -jar /home/pi/Test.jar
+55 3 * * * java -jar /home/pi/Test.jar
+
+10 2 * * * java -jar /home/pi/Test.jar
+25 2 * * * java -jar /home/pi/Test.jar
+40 2 * * * java -jar /home/pi/Test.jar
+55 2 * * * java -jar /home/pi/Test.jar
+
+10 1 * * * java -jar /home/pi/Test.jar
+25 1 * * * java -jar /home/pi/Test.jar
+40 1 * * * java -jar /home/pi/Test.jar
+55 1 * * * java -jar /home/pi/Test.jar
+
+10 0 * * * java -jar /home/pi/Test.jar
+25 0 * * * java -jar /home/pi/Test.jar
+40 0 * * * java -jar /home/pi/Test.jar
+55 0 * * * java -jar /home/pi/Test.jar
+
+10 23 * * * java -jar /home/pi/Test.jar
+25 23 * * * java -jar /home/pi/Test.jar
+40 23 * * * java -jar /home/pi/Test.jar
+55 23 * * * java -jar /home/pi/Test.jar
+
+40 22 * * * java -jar /home/pi/Test.jar
+55 22 * * * java -jar /home/pi/Test.jar
+
+---------------------------------------
+
+10 21 * * * java -jar /home/pi/Test.jar
+25 21 * * * java -jar /home/pi/Test.jar
+40 21 * * * java -jar /home/pi/Test.jar
+55 21 * * * java -jar /home/pi/Test.jar
+
+10 20 * * * java -jar /home/pi/Test.jar
+25 20 * * * java -jar /home/pi/Test.jar
+40 20 * * * java -jar /home/pi/Test.jar
+55 20 * * * java -jar /home/pi/Test.jar
+
+40 19 * * * java -jar /home/pi/Test.jar
+55 19 * * * java -jar /home/pi/Test.jar
+
+10 18 * * * java -jar /home/pi/Test.jar
+40 18 * * * java -jar /home/pi/Test.jar
+25 18 * * * java -jar /home/pi/Test.jar
+
+55 17 * * * java -jar /home/pi/Test.jar
+25 17 * * * java -jar /home/pi/Test.jar
+40 17 * * * java -jar /home/pi/Test.jar
+10 17 * * * java -jar /home/pi/Test.jar
+
+40 16 * * * java -jar /home/pi/Test.jar
+55 16 * * * java -jar /home/pi/Test.jar
+10 16 * * * java -jar /home/pi/Test.jar
+25 16 * * * java -jar /home/pi/Test.jar
+
+10 15 * * * java -jar /home/pi/Test.jar
+
+10 14 * * * java -jar /home/pi/Test.jar
+25 14 * * * java -jar /home/pi/Test.jar
+40 14 * * * java -jar /home/pi/Test.jar
+55 14 * * * java -jar /home/pi/Test.jar
+
+10 13 * * * java -jar /home/pi/Test.jar
+
+55 12 * * * java -jar /home/pi/Test.jar
+25 12 * * * java -jar /home/pi/Test.jar
+40 12 * * * java -jar /home/pi/Test.jar
+10 12 * * * java -jar /home/pi/Test.jar
+
+10 11 * * * java -jar /home/pi/Test.jar
+25 11 * * * java -jar /home/pi/Test.jar
+40 11 * * * java -jar /home/pi/Test.jar
+55 11 * * * java -jar /home/pi/Test.jar
+
+25 9 * * * java -jar /home/pi/Test.jar
+55 9 * * * java -jar /home/pi/Test.jar
+40 9 * * * java -jar /home/pi/Test.jar
+10 9 * * * java -jar /home/pi/Test.jar
+
+25 8 * * * java -jar /home/pi/Test.jar
+40 8 * * * java -jar /home/pi/Test.jar
+55 8 * * * java -jar /home/pi/Test.jar
+
+10 7 * * * java -jar /home/pi/Test.jar
+25 7 * * * java -jar /home/pi/Test.jar
+55 7 * * * java -jar /home/pi/Test.jar
+
+25 6 * * * java -jar /home/pi/Test.jar
+40 6 * * * java -jar /home/pi/Test.jar
+55 6 * * * java -jar /home/pi/Test.jar
+
+10 5 * * * java -jar /home/pi/Test.jar
+25 5 * * * java -jar /home/pi/Test.jar
+55 5 * * * java -jar /home/pi/Test.jar
+
+10 4 * * * java -jar /home/pi/Test.jar
+25 4 * * * java -jar /home/pi/Test.jar
+40 4 * * * java -jar /home/pi/Test.jar
+55 4 * * * java -jar /home/pi/Test.jar
+
+10 3 * * * java -jar /home/pi/Test.jar
+25 3 * * * java -jar /home/pi/Test.jar
+40 3 * * * java -jar /home/pi/Test.jar
+55 3 * * * java -jar /home/pi/Test.jar
+
+10 2 * * * java -jar /home/pi/Test.jar
+25 2 * * * java -jar /home/pi/Test.jar
+40 2 * * * java -jar /home/pi/Test.jar
+55 2 * * * java -jar /home/pi/Test.jar
+
+10 1 * * * java -jar /home/pi/Test.jar
+25 1 * * * java -jar /home/pi/Test.jar
+40 1 * * * java -jar /home/pi/Test.jar
+55 1 * * * java -jar /home/pi/Test.jar
+
+10 0 * * * java -jar /home/pi/Test.jar
+25 0 * * * java -jar /home/pi/Test.jar
+40 0 * * * java -jar /home/pi/Test.jar
+55 0 * * * java -jar /home/pi/Test.jar
+
+10 23 * * * java -jar /home/pi/Test.jar
+25 23 * * * java -jar /home/pi/Test.jar
+40 23 * * * java -jar /home/pi/Test.jar
+55 23 * * * java -jar /home/pi/Test.jar
+
+10 22 * * * java -jar /home/pi/Test.jar
+
+
+
+
+
+
+
+
+
